@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain and smart contract developement
 - 🌱 I’m currently learning building a token, smart contracts and an exchange 
 - 💞️ I’m looking to collaborate on blockchain development, javascript, solidity, 
-- 📫 How to reach me tmollevik@gmail.com
+- 📫 How to reach me thomas@mollevik.no
 
 <!---
 Millavik/Millavik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
